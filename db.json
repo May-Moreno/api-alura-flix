@@ -1,124 +1,96 @@
 {
-    "product": [
+    "videos": [
         {
-            "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
-            "name": "Trooper taza",
-            "price": "$60.00",
-            "Description": "Taza casco Trooper",
-            "category": "starwars",
-            "id": 1
+            "id": 1,
+            "titulo": "Haikyuu!! Trailer",
+            "descripcion": "Basada en el manga original de Haruichi Furudate, el cual se publica en la Weekly Shonen Jump, Haikyu!! es un anime deportivo protagonizado por Shoyo Hinata y su amor por el voleibol. Siendo de corta estatura, le inspira un jugador al que llamaban el 'Pequeño Gigante', y decide jugar tal y como lo hizo él..",
+            "imagen": "https://i.ytimg.com/vi_webp/T5nHTuDT88g/maxresdefault.webp",
+            "video": "https://www.youtube.com/watch?v=T5nHTuDT88g&pp=ygUPaGFpa3l1dSB0cmFpbGVy",
+            "categoria": "Deportes"
         },
         {
-            "img": "https://cdn1.coppel.com/images/catalog/mkp/1773/5000/17733590-1.jpg",
-            "name": "Funko Vader",
-            "price": "$60.00",
-            "Description": "Funko coleccionable Darth vader",
-            "category": "starwars",
-            "id": 2
+            "id": 2,
+            "titulo": "Kuroko no Basket [Trailer]",
+            "descripcion": "El equipo de baloncesto de la preparatoria Teiko. La clase que produjo tres temporadas perfectas de un solo golpe, con cinco jugadores que solo se ven una vez en su generación, llamados 'La Generación Milagrosa'..",
+            "imagen": "https://i3.ytimg.com/vi/nb7e5_4CGag/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=nb7e5_4CGag&pp=ygUZdHJhaWxlciBrdXJva28gbm8gYmFza2V0IA%3D%3D",
+            "categoria": "Deportes"
         },
         {
-            "img": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12N6pr.img?w=500&h=500&m=6",
-            "name": "Grogu (Baby Yoda)",
-            "price": "$100.00",
-            "Description": "Grogu peluche electrónico",
-            "category": "starwars",
-            "id": 3
+            "id": 3,
+            "titulo": "Yowamushi Pedal Grande Road Part 1 (Eps 1-12) (Subtitled Edition) - Official Trailer",
+            "descripcion": "Onoda Sakamichi es un estudiante de primero en la Preparatoria Sohoku, aunque es tímido y lo que más le gusta es el anime. Al entrar a la preparatoria decide unirse al club de anime, pero tras encontrarse con Imaizumi Shunsuke, un reconocido ciclista desde secundaria, y Naruko Shoukichi, quien luchó por el campeonato de ciclismo de Kansai, acaba uniéndose al competitivo club de ciclismo.",
+            "imagen": "https://i3.ytimg.com/vi/lKdje2IjmMw/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=lKdje2IjmMw&pp=ygUXdHJhaWxlciB5b3dhbXVzaGkgcGVkYWw%3D",
+            "categoria": "Deportes"
         },
         {
-            "img": "https://cdn.shopify.com/s/files/1/0563/9831/5692/files/luke-skywalker-lightsaber-hilt.png?v=1656863305",
-            "name": "Lightsaber",
-            "price": "$3000.00",
-            "Description": "Sable de luz para duelos",
-            "category": "starwars",
-            "id": 4
+            "id": 4,
+            "titulo": "ONE PIECE | Netflix Trailer | Anime Version",
+            "descripcion": "Monkey D. Luffy se niega a que nadie se interponga en su camino para convertirse en Rey de los Piratas. Se lanza a surcar los mares y se convertirá en un capitán dispuesto a no darse cuenta por vencido jamás hasta hacerse con el mayor tesoro de la historia: el legendario One Piece.",
+            "imagen": "https://i3.ytimg.com/vi/MCb13lbVGE0/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=MCb13lbVGE0&pp=ygURdHJhaWxlciBvbmUgcGllY2U%3D",
+            "categoria": "Shounen"
         },
         {
-            "img": "https://tooys.mx/media/wysiwyg/Darth_Vader-estatua-premium-format-por-sideshow-19.png",
-            "name": "Darth Vader",
-            "price": "$450.00",
-            "Description": "DarDarth  Vader figura de coleción",
-            "category": "starwars",
-            "id": 5
+            "id": 5,
+            "titulo": "MASHLE: MAGIC AND MUSCLES | TRÁILER OFICIAL",
+            "descripcion": "Este es un mundo de magia. Este es un mundo en el que todos usan la magia habitualmente. En un bosque profundo y oscuro de este mundo de magia, hay un chico que se ejercita a diario. Su nombre es Mash Burnedead y tiene un secreto: no puede usar magia. El único que quería era vivir tranquilo con su familia, pero cuando un día intentan matarlo por no poder usar magia, las cosas se salen de control y acaba inscrito en una escuela mágica, donde su objetivo será convertirse en el 'Iluminado Divino', el Alumno más formidable, el elegido de Dios. ¿Podrán sus poderosos músculos derrotar a los más brillantes usuarios de magia? ¡Se alza el telón de esta historia de magia y fantasía peculiar en la que la fuerza puede con la magia!",
+            "imagen": "https://i3.ytimg.com/vi/OXQvk5-KVTw/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=OXQvk5-KVTw&pp=ygUOdHJhaWxlciBtYXNobGU%3D",
+            "categoria": "Shounen"
         },
         {
-            "img": "https://www.cibermoda.mx/assets/images/craft_images/productos/Consola-Retro-Portatil-X12-Plus-pantalla-7-pulgadas-color-rojo-azul-joystick.webp",
-            "name": "X12 Plus",
-            "price": "$4500.00",
-            "Description": "consola portatil, 16 Gb de RAM",
-            "category": "consolas",
-            "id": 1
+            "id": 6,
+            "titulo": "Katekyo Hitman Reborn - 10th Vongola Family Special Official Trailer ||",
+            "descripcion": "Tsuna es un estudiante de preparatoria/instituto bastante tímido y que es un fracaso en absolutamente todo: los estudios, los deportes y socializar con los demás. Pero todo cambia de repente cuando ante Tsuna aparece un bebé que dice llamarse Reborn y ser un Tutor Mafioso enviado por la Familia Vongola, una poderosa Familia de la mafia italiana. Reborn acude a Tsuna para entrenarlo como ¡el décimo jefe de los Vongola!",
+            "imagen": "http://i3.ytimg.com/vi/iL4m2-nhOuI/hqdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=iL4m2-nhOuI&pp=ygUddHJhaWxlciBrYXRla3lvIGhpdG1hbiByZWJvcm4%3D",
+            "categoria": "Shounen"
         },
         {
-            "img": "https://revistasociosams.com/wp-content/uploads/2021/03/control-inalambrico-Xbox%E2%80%8B-1.png",
-            "name": "Control Xbox One",
-            "price": "$950.00",
-            "Description": "Control Xbox serie One",
-            "category": "consolas",
-            "id": 2
+            "id": 7,
+            "titulo": "Horimiya | OFFICIAL TRAILER [English Sub]",
+            "descripcion": "Cuando el popular Hori y el sombrío Miyamura se conocen, revelan el lado oculto de sí mismos. ¿Podría ser este el comienzo de algo nuevo?",
+            "imagen": "https://i3.ytimg.com/vi/e4RCugyx5No/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=e4RCugyx5No&pp=ygUQdHJhaWxlciBob3JpbWl5YQ%3D%3D",
+            "categoria": "Shoujo"
         },
         {
-            "img": "https://www.incentivosblackhawk.com.mx/wp-content/uploads/2022/05/Steam.png",
-            "name": "Steam Card",
-            "price": "$200.00",
-            "Description": "steam card 200 pelucholares",
-            "category": "consolas",
-            "id": 3
+            "id": 8,
+            "titulo": "My Love Story with Yamada-kun at Lv999 | OFFICIAL TRAILER",
+            "descripcion": "Akane Kinoshita, una estudiante universitaria, se enfrenta a la peor de las situaciones cuando acaba rompiendo con su novio después de que este tenga una aventura con una mujer que conoció jugando a un juego online. Mientras alivia su estrés arrasando los cotos de caza abiertos de un juego online, Akane le cuenta todo a 'Yamada', un jugador que conoció por casualidad y que pertenece al mismo gremio. 'No me importa', es su cortante respuesta. Pero cuando Akane se hace un cambio de imagen y se une a un evento offline para vengarse de su exnovio, vuelve a oír esas terribles palabras. ¡Y ese fue el inesperado encuentro de Akane con 'Yamada'!",
+            "imagen": "https://i3.ytimg.com/vi/Mk8gEBzunD8/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=Mk8gEBzunD8&pp=ygUbdHJhaWxlciB5YW1hZGEga3VuIHRvIGx2OTk5",
+            "categoria": "Shoujo"
         },
         {
-            "img": "https://www.techpowerup.com/review/scuf-impact-controller-ps4-pc/images/small.png",
-            "name": "Control usb",
-            "price": "$500.00",
-            "Description": "Control de china",
-            "category": "consolas",
-            "id": 4
-        },
-        {
-            "img": "https://virtumaniacos.com/wp-content/uploads/2022/03/playstation-vr-visor.webp",
-            "name": "Oculus Quest 2 ",
-            "price": "$4500.00",
-            "Description": "Su versatilidad nos va a permitir usarlas en formato Standalone, es decir no depende de ningún otro elemento como cámaras o hardware externo, y esto las ha convertido el las gafas VR más vendidas desde 2020. Incluso puedes conectarlas a un ordenador (opcional) por cable o por wifi para jugar a juegos y usar aplicaciones aún más exigentes. ",
-            "category": "consolas",
-            "id": 5
-        },
-        {
-            "img": "https://otakutienda.com/cdn/shop/products/IMG_5186_580x.png?v=1644943571",
-            "name": "Pikachu Itachi  edition",
-            "price": "$500.00",
-            "Description": "Edición especial Pikachu Itachi  anbu",
-            "category": "diversos",
-            "id": 1
-        },
-        {
-            "img": "https://ggezstore.net/wp-content/uploads/2021/12/DEADPOOL-PIKACHU-e1640658722195.png",
-            "name": "Pikachu Deadpool",
-            "price": "$250.00",
-            "Description": "Pikachu edición deadpool",
-            "category": "diversos",
-            "id": 2
-        },
-        {
-            "img": "https://cdn.shopify.com/s/files/1/2437/4099/products/spider-man_marvel_silo_480x672.png?v=1649713239",
-            "name": "Spiderman Hot Toys",
-            "price": "$660.00",
-            "Description": "Hot Toys CosRider: Marvel Spider Man Far From Home - Spider Man — Distrito Max",
-            "category": "diversos",
-            "id": 3
-        },
-        {
-            "img": "https://www.panupli.es/3364-large_default/funko-pop-es-dla-gandalf-montado-en-gwaihir.jpg",
-            "name": "Funko Gandalf en Gwaihir",
-            "price": "$600.00",
-            "Description": "Colecciona el Funko POP de Gandalf montado en el águila Gwaihir de las increíbles películas de El Señor de los Anillos",
-            "category": "diversos",
-            "id": 4
-        },
-        {
-            "img": "https://lemongamesmx.com/cdn/shop/products/fun55641-dragon-ball-z-cell-first-form-glow-in-the-dark-pop-vinyl-figure-popcultcha-01_480x480.png?v=1661980008",
-            "name": "Cell DBZ",
-            "price": "$450.00",
-            "Description": "Cell primera forma, retroiluminado",
-            "category": "diversos",
-            "id": 5
+            "id": 9,
+            "titulo": "Say 'I Love You' Trailer",
+            "descripcion": "Mei Tachibana ha gastado 16 años sin hacer ningún amigo y sin tener novio. Un día, ella golpea a uno de los chicos más populares del instituto, Yamato Kurosawa, por un malentendido, aunque parece que a partir de ahí, a él comienza a gustarle. Por suerte, él protege a Mei de un hombre que la sigue a todas partes...¿con un beso?",
+            "imagen": "https://i3.ytimg.com/vi/-RoSoU_h5SY/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=-RoSoU_h5SY&pp=ygUYc3VraXR0ZSBpaSBuYSB5byB0cmFpbGVy",
+            "categoria": "Shoujo"
         }
+    ],
+    "categorias" : [
+        {
+            "id": 1,
+            "titulo": "Deportes",
+            "descripcion": "Animes que nos narran historias que giran en torno a un deporte.",
+            "color": "#038efe"
+        },
+        {
+            "id": 2,
+            "titulo": "Shounen",
+            "descripcion": "Animes que se considera estan dirigidos al publico de hombres jovenes, por lo general incluyen accion o aventura.",
+            "color": "#8b082a"
+        },
+        {
+            "id": 3,
+            "titulo": "Shoujo",
+            "descripcion": "Animes que se considera que estan dirigidos al publico de mujeres jovenes, por lo general incluyen romance.",
+            "color": "#be8cce"
+          }
     ]
 }
